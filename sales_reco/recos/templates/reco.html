@@ -1,0 +1,29 @@
+{% extends 'base.html' %}
+<!DOCTYPE html>
+<html lang="en">
+
+<body>
+    {% block body %}
+    <br>
+<!--    <script> alert({{ form.as_p}})</script>-->
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-lg-6">
+            <form method="post">
+                {% csrf_token %}
+                {{ form.as_p}}
+                <button type="submit"> Get Recommendations</button>
+
+            </form>
+        <h2> Expected Sales : $ {{result}}   </h2>
+        </div>
+
+    </div>
+
+
+
+</div>
+
+    {% endblock %}
+</body>
+</html>

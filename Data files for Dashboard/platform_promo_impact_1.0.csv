@@ -1,0 +1,73 @@
+brand_name,channel,time_of_day,order_type,total_promo_orders,total_promo_sales,total_non_promo_orders,total_non_promo_sales
+Club Street,Platform A,1.Morning,DELIVERY,0.0,0.0,0.0,0.0
+Club Street,Platform A,1.Morning,TAKE_AWAY,0.0,0.0,0.0,0.0
+Club Street,Platform A,2.Afternoon,DELIVERY,0.0,0.0,0.0,0.0
+Club Street,Platform A,2.Afternoon,TAKE_AWAY,0.0,0.0,0.0,0.0
+Club Street,Platform A,3.Evening,DELIVERY,0.0,0.0,0.0,0.0
+Club Street,Platform A,3.Evening,TAKE_AWAY,0.0,0.0,0.0,0.0
+Club Street,Platform A,4.Late night,DELIVERY,0.0,0.0,0.0,0.0
+Club Street,Platform A,4.Late night,TAKE_AWAY,0.0,0.0,0.0,0.0
+Club Street,Platform B,1.Morning,DELIVERY,0.0,0.0,0.0,0.0
+Club Street,Platform B,1.Morning,TAKE_AWAY,0.0,0.0,0.0,0.0
+Club Street,Platform B,2.Afternoon,DELIVERY,0.0,0.0,0.0,0.0
+Club Street,Platform B,2.Afternoon,TAKE_AWAY,0.0,0.0,0.0,0.0
+Club Street,Platform B,3.Evening,DELIVERY,0.0,0.0,0.0,0.0
+Club Street,Platform B,3.Evening,TAKE_AWAY,0.0,0.0,0.0,0.0
+Club Street,Platform B,4.Late night,DELIVERY,0.0,0.0,0.0,0.0
+Club Street,Platform B,4.Late night,TAKE_AWAY,0.0,0.0,0.0,0.0
+Club Street,Platform C,1.Morning,DELIVERY,164.0,14079.799999999997,1336.0,50393.96999999999
+Club Street,Platform C,1.Morning,TAKE_AWAY,0.0,0.0,0.0,0.0
+Club Street,Platform C,2.Afternoon,DELIVERY,204.0,17403.150000000005,1975.0,67212.34999999995
+Club Street,Platform C,2.Afternoon,TAKE_AWAY,0.0,0.0,0.0,0.0
+Club Street,Platform C,3.Evening,DELIVERY,60.0,4474.450000000001,890.0,30112.31
+Club Street,Platform C,3.Evening,TAKE_AWAY,0.0,0.0,0.0,0.0
+Club Street,Platform C,4.Late night,DELIVERY,0.0,0.0,3.0,302.6
+Club Street,Platform C,4.Late night,TAKE_AWAY,0.0,0.0,0.0,0.0
+Pizzeria,Platform A,1.Morning,DELIVERY,3.0,182.97,257.0,17446.960000000006
+Pizzeria,Platform A,1.Morning,TAKE_AWAY,0.0,0.0,14.0,779.49
+Pizzeria,Platform A,2.Afternoon,DELIVERY,9.0,461.7,905.0,48788.91999999998
+Pizzeria,Platform A,2.Afternoon,TAKE_AWAY,0.0,0.0,24.0,983.69
+Pizzeria,Platform A,3.Evening,DELIVERY,3.0,201.69000000000003,804.0,41318.239999999976
+Pizzeria,Platform A,3.Evening,TAKE_AWAY,0.0,0.0,18.0,827.6200000000001
+Pizzeria,Platform A,4.Late night,DELIVERY,0.0,0.0,2.0,230.04999999999998
+Pizzeria,Platform A,4.Late night,TAKE_AWAY,0.0,0.0,0.0,0.0
+Pizzeria,Platform B,1.Morning,DELIVERY,7.0,535.51,33.0,2150.11
+Pizzeria,Platform B,1.Morning,TAKE_AWAY,24.0,1409.17,1.0,235.4
+Pizzeria,Platform B,2.Afternoon,DELIVERY,36.0,2090.72,242.0,13128.320000000007
+Pizzeria,Platform B,2.Afternoon,TAKE_AWAY,101.0,6273.899999999995,3.0,159.96
+Pizzeria,Platform B,3.Evening,DELIVERY,36.0,2007.24,182.0,9381.779999999995
+Pizzeria,Platform B,3.Evening,TAKE_AWAY,62.0,3350.07,2.0,95.23
+Pizzeria,Platform B,4.Late night,DELIVERY,0.0,0.0,0.0,0.0
+Pizzeria,Platform B,4.Late night,TAKE_AWAY,0.0,0.0,0.0,0.0
+Pizzeria,Platform C,1.Morning,DELIVERY,82.0,7112.219999999999,270.0,13195.579999999993
+Pizzeria,Platform C,1.Morning,TAKE_AWAY,0.0,0.0,0.0,0.0
+Pizzeria,Platform C,2.Afternoon,DELIVERY,464.0,41107.42999999999,1482.0,69472.82999999996
+Pizzeria,Platform C,2.Afternoon,TAKE_AWAY,0.0,0.0,0.0,0.0
+Pizzeria,Platform C,3.Evening,DELIVERY,365.0,32859.76000000001,1419.0,70620.86999999988
+Pizzeria,Platform C,3.Evening,TAKE_AWAY,0.0,0.0,0.0,0.0
+Pizzeria,Platform C,4.Late night,DELIVERY,3.0,296.39,3.0,104.86000000000001
+Pizzeria,Platform C,4.Late night,TAKE_AWAY,0.0,0.0,0.0,0.0
+The Brunch Place,Platform A,1.Morning,DELIVERY,0.0,0.0,0.0,0.0
+The Brunch Place,Platform A,1.Morning,TAKE_AWAY,0.0,0.0,0.0,0.0
+The Brunch Place,Platform A,2.Afternoon,DELIVERY,0.0,0.0,0.0,0.0
+The Brunch Place,Platform A,2.Afternoon,TAKE_AWAY,0.0,0.0,0.0,0.0
+The Brunch Place,Platform A,3.Evening,DELIVERY,0.0,0.0,0.0,0.0
+The Brunch Place,Platform A,3.Evening,TAKE_AWAY,0.0,0.0,0.0,0.0
+The Brunch Place,Platform A,4.Late night,DELIVERY,0.0,0.0,0.0,0.0
+The Brunch Place,Platform A,4.Late night,TAKE_AWAY,0.0,0.0,0.0,0.0
+The Brunch Place,Platform B,1.Morning,DELIVERY,0.0,0.0,0.0,0.0
+The Brunch Place,Platform B,1.Morning,TAKE_AWAY,0.0,0.0,0.0,0.0
+The Brunch Place,Platform B,2.Afternoon,DELIVERY,0.0,0.0,0.0,0.0
+The Brunch Place,Platform B,2.Afternoon,TAKE_AWAY,0.0,0.0,0.0,0.0
+The Brunch Place,Platform B,3.Evening,DELIVERY,0.0,0.0,0.0,0.0
+The Brunch Place,Platform B,3.Evening,TAKE_AWAY,0.0,0.0,0.0,0.0
+The Brunch Place,Platform B,4.Late night,DELIVERY,0.0,0.0,0.0,0.0
+The Brunch Place,Platform B,4.Late night,TAKE_AWAY,0.0,0.0,0.0,0.0
+The Brunch Place,Platform C,1.Morning,DELIVERY,16.0,334.91,136.0,3292.250000000001
+The Brunch Place,Platform C,1.Morning,TAKE_AWAY,0.0,0.0,0.0,0.0
+The Brunch Place,Platform C,2.Afternoon,DELIVERY,4.0,90.95,418.0,9723.739999999974
+The Brunch Place,Platform C,2.Afternoon,TAKE_AWAY,0.0,0.0,0.0,0.0
+The Brunch Place,Platform C,3.Evening,DELIVERY,0.0,0.0,247.0,5800.3299999999945
+The Brunch Place,Platform C,3.Evening,TAKE_AWAY,0.0,0.0,0.0,0.0
+The Brunch Place,Platform C,4.Late night,DELIVERY,0.0,0.0,0.0,0.0
+The Brunch Place,Platform C,4.Late night,TAKE_AWAY,0.0,0.0,0.0,0.0

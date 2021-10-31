@@ -1,0 +1,46 @@
+brand_name,channel,time_of_day,total_promo_orders,total_promo_sales,total_non_promo_orders,total_non_promo_sales
+Club Street,Platform A,5.Late night,0.0,0.0,0.0,0.0
+Club Street,Platform A,1.Morning,0.0,0.0,0.0,0.0
+Club Street,Platform A,2.Afternoon,0.0,0.0,0.0,0.0
+Club Street,Platform A,3.Evening,0.0,0.0,0.0,0.0
+Club Street,Platform A,4.Late night,0.0,0.0,0.0,0.0
+Club Street,Platform B,5.Late night,0.0,0.0,0.0,0.0
+Club Street,Platform B,1.Morning,0.0,0.0,0.0,0.0
+Club Street,Platform B,2.Afternoon,0.0,0.0,0.0,0.0
+Club Street,Platform B,3.Evening,0.0,0.0,0.0,0.0
+Club Street,Platform B,4.Late night,0.0,0.0,0.0,0.0
+Club Street,Platform C,5.Late night,0.0,0.0,1.0,39.4
+Club Street,Platform C,1.Morning,164.0,14079.799999999997,1336.0,50393.96999999999
+Club Street,Platform C,2.Afternoon,204.0,17403.150000000005,1975.0,67212.34999999995
+Club Street,Platform C,3.Evening,60.0,4474.450000000001,890.0,30112.31
+Club Street,Platform C,4.Late night,0.0,0.0,2.0,263.2
+Pizzeria,Platform A,5.Late night,0.0,0.0,1.0,58.85
+Pizzeria,Platform A,1.Morning,3.0,182.97,271.0,18226.450000000015
+Pizzeria,Platform A,2.Afternoon,9.0,461.7,929.0,49772.60999999998
+Pizzeria,Platform A,3.Evening,3.0,201.69000000000003,822.0,42145.85999999999
+Pizzeria,Platform A,4.Late night,0.0,0.0,1.0,171.2
+Pizzeria,Platform B,5.Late night,0.0,0.0,0.0,0.0
+Pizzeria,Platform B,1.Morning,31.0,1944.6799999999998,34.0,2385.5099999999998
+Pizzeria,Platform B,2.Afternoon,137.0,8364.619999999997,245.0,13288.280000000008
+Pizzeria,Platform B,3.Evening,98.0,5357.31,184.0,9477.009999999995
+Pizzeria,Platform B,4.Late night,0.0,0.0,0.0,0.0
+Pizzeria,Platform C,5.Late night,1.0,115.56,1.0,25.68
+Pizzeria,Platform C,1.Morning,82.0,7112.219999999999,270.0,13195.579999999993
+Pizzeria,Platform C,2.Afternoon,464.0,41107.42999999999,1482.0,69472.82999999996
+Pizzeria,Platform C,3.Evening,365.0,32859.76000000001,1419.0,70620.86999999988
+Pizzeria,Platform C,4.Late night,2.0,180.82999999999998,2.0,79.18
+The Brunch Place,Platform A,5.Late night,0.0,0.0,0.0,0.0
+The Brunch Place,Platform A,1.Morning,0.0,0.0,0.0,0.0
+The Brunch Place,Platform A,2.Afternoon,0.0,0.0,0.0,0.0
+The Brunch Place,Platform A,3.Evening,0.0,0.0,0.0,0.0
+The Brunch Place,Platform A,4.Late night,0.0,0.0,0.0,0.0
+The Brunch Place,Platform B,5.Late night,0.0,0.0,0.0,0.0
+The Brunch Place,Platform B,1.Morning,0.0,0.0,0.0,0.0
+The Brunch Place,Platform B,2.Afternoon,0.0,0.0,0.0,0.0
+The Brunch Place,Platform B,3.Evening,0.0,0.0,0.0,0.0
+The Brunch Place,Platform B,4.Late night,0.0,0.0,0.0,0.0
+The Brunch Place,Platform C,5.Late night,0.0,0.0,0.0,0.0
+The Brunch Place,Platform C,1.Morning,16.0,334.91,136.0,3292.250000000001
+The Brunch Place,Platform C,2.Afternoon,4.0,90.95,418.0,9723.739999999974
+The Brunch Place,Platform C,3.Evening,0.0,0.0,247.0,5800.3299999999945
+The Brunch Place,Platform C,4.Late night,0.0,0.0,0.0,0.0
